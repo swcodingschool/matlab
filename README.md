@@ -17,7 +17,7 @@ MATLAB(매트랩)은 MathWorks 사에서 개발한 수치 해석 및 프로그�
 - M-Lint Code Checker : 코드를 분석하고 변경을 권장하여 성능과 유지 능력을 향상시킨다.모든 파일을 스캔하여 코드 효율성, 파일의 차이점, 파일 의존성 및 코드 커버리지에 대해 보고한다.  
 
 # 정리한 내용 보기  
-1. [MATLAB 시작하기]()
+1. [MATLAB 시작하기](https://github.com/swcodingschool/matlab/blob/master/getting-start-with-matlab.md)  
 
 # 추천링크
 - [MathWorks.com](https://www.mathworks.com/)
